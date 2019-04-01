@@ -1,0 +1,34 @@
+#######################################
+
+# Syntax Coloring Map For TinyFontRenderer (uag)
+
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+TinyFontRenderer	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+DrawString	KEYWORD2
+DrawCharacter	KEYWORD2
+GetStringWidth	KEYWORD2
+GetCharacterWidth	KEYWORD2
+GetHeight	KEYWORD2
+GetOffset	KEYWORD2
+GetAverageCharacterWidth	KEYWORD2
+GetMaximumCharacterWidth	KEYWORD2
+GetDefinedCharacters	KEYWORD2
+GetTopExternalMargin	KEYWORD2
+GetNumberOfDefinedCharacters	KEYWORD2
+DrawPixelCallback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OpacityOpaque	LITERAL1
+OpacityTransparent	LITERAL1

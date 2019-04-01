@@ -1,0 +1,23 @@
+{
+    "name": "TinyFontRenderer",
+    "description": "A library which renders TinyFonts derived from Truetype fonts",
+    "keywords": "TinyFnt, TinyFont, Truetype, tiny, font, antialias",
+	"authors": [
+		{
+			"name": "Darrek Kay",
+			"url": "mailto:dlkay0@gmail.com",
+			"maintainer": true
+		}
+	],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dlkay0/TinyFontRenderer.git"
+    },
+    "version": "1.0.0",
+	"license": "APACHE-2.0",
+    "frameworks": "Arduino",
+    "platforms": "espressif",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
