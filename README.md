@@ -17,7 +17,7 @@ The main features of the Tiny Font Renderer library are:
 * Fully supports anti-aliasing for greyscale/color displays
 
 ![Screenshot](https://github.com/dlkay0/TinyFontRenderer/blob/master/ASCII_Art.PNG)
-![Video](https://www.youtube.com/watch?v=05vwcNHRuQs)
+Video: https://www.youtube.com/watch?v=05vwcNHRuQs
 ## Installing This Library
 
 Open the Library Manager and search for "TinyFontRenderer" and install
@@ -99,7 +99,7 @@ void DrawCharArray() {
 
 If you like and use Tiny Font Renderer in your project, please consider donating a mere $2 to me here.
 <br/>
-![Donate Via PayPal](https://paypal.me/dlkay0?locale.x=en_US)
+Donate Via PayPal: https://paypal.me/dlkay0?locale.x=en_US
 
 
 ## Contibuting
