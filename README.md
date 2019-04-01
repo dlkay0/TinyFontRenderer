@@ -2,7 +2,7 @@
 
 Tiny Font Renderer is a library which renders Tiny Font (*.TinyFnt) files which have been created from Truetype fonts using the Tiny Font Tool GUI.
 
-[![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]
+![Version](https://img.shields.io/badge/Version-v1.0.0-green.svg)
 <br />
 
 ## Features
@@ -16,7 +16,7 @@ The main features of the Tiny Font Renderer library are:
 * Uses proportional character spacing
 * Fully supports anti-aliasing for greyscale/color displays
 
-![Screenshot](ASCII_Art.png)
+![Screenshot](https://github.com/dlkay0/TinyFontRenderer/blob/master/ASCII_Art.PNG)
  
 ## Installing This Library
 
